@@ -1,3 +1,6 @@
 # Slater's Page
-This is me!
+
+## **This is me!**
+
 ![Image](IMG_8827.jpg)
+
