@@ -16,9 +16,9 @@
 
 > **Languages To Learn**
 
-- [] *Javascript*
-- [] *Ruby*
-- [] *CSS*
+- [ ] *Javascript*
+- [ ] *Ruby*
+- [ ] *CSS*
 
 ### **Contact Me**
 > <smutunga@ucsd.edu>
