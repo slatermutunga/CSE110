@@ -75,3 +75,4 @@ bool HashTableSet::find(const string & s) {
 }
 ```
 
+![Image](coding.jpg)
