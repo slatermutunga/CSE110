@@ -4,21 +4,21 @@
 
 ![Image](IMG_8827.jpg)
 
-> I am a transfer student pursuing my Computer Science degree at UCSD.
+> I am a transfer student pursuing my Computer Science degree at UCSD. 
 
 [Code Examples](code.md)
 
-> Favorite Coding Languages
+> **Favorite Coding Languages**
 
-1. C++
-2. Python
-3. HTML
+1. *C++*
+2. *Python*
+3. *HTML*
 
-> Languages To Learn
+> **Languages To Learn**
 
-- [] Javascript
-- [] Ruby
-- [] CSS
+- [] *Javascript*
+- [] *Ruby*
+- [] *CSS*
 
-### Contact Me
+### **Contact Me**
 > <smutunga@ucsd.edu>
